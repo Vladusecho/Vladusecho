@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/vladusecho" target="_blank">Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&center=true&width=435&lines=Computer+programmer+from+Russia" alt="Typing SVG" /></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&center=true&width=435&lines=Fullstack+developer+from+Russia" alt="Typing SVG" /></h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
