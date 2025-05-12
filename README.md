@@ -1,6 +1,4 @@
 
-<h1 align="center">Hi, I'm <a href="https://vk.com/vladusecho" target="_blank">Vladislav K.</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=6000&pause=1000&color=6FF734&width=435&lines=Android+Developer" alt="Typing SVG" /></a>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
