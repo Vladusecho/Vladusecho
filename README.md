@@ -4,10 +4,9 @@
 
 *   **Языки:** Kotlin, Java
 *   **Архитектура:** MVVM, Clean Architecture
-*   **Async:** Kotlin Coroutines, Flow
-*   **DI:** Dagger 2
+*   **Async:** Coroutines, Flow
 *   **Networking:** Retrofit
-*   **Other:** Glide/Coil, WorkManager
+*   **Other:** Room, Coil
 
 📈 **Моя статистика на GitHub:**
 
