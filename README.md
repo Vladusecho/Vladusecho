@@ -3,14 +3,13 @@
 *   **Архитектура:** MVVM, MVI
 *   **Async:** Coroutines, Flow
 *   **Networking:** Retrofit
+*   **DI** Dagger
 *   **Other:** Room, Coil
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladusecho&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/vladusecho/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/cklsyawxgi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vladkorzun@yandex.ru)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vladkorzun2016@yandex.ru)
